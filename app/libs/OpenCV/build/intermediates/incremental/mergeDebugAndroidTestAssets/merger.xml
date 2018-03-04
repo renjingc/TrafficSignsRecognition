@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="F:\Androidapplications\MyApplication2\app\libs\OpenCV\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="F:\Androidapplications\MyApplication2\app\libs\OpenCV\src\androidTest\assets"/></dataSet></merger>

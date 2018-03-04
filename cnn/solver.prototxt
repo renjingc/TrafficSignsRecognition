@@ -1,0 +1,14 @@
+net: "E:\\config_train_test.prototxt"
+test_iter: 82
+#test_interval: 544
+test_interval: 100
+base_lr: 0.01
+lr_policy: "poly"
+power: 0.5
+momentum: 0.9
+weight_decay: 0.0005
+display: 100
+max_iter: 14000
+snapshot: 100
+snapshot_prefix: "E:\\snapshot\\"
+solver_mode: CPU
