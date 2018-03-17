@@ -48,6 +48,8 @@
 2. 光线影响
 3. 手机手拿拿着太晃，容易造成图像模糊，导致识别错误。
 
+效果视频
+[限速牌识别](http://v.youku.com/v_show/id_XMzQ3MTM1MTU0MA==.html?spm=a2hzp.8244740.0.0)
 效果图
 
 ![avatar](1.png)	
