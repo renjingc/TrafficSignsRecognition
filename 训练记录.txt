@@ -1,0 +1,374 @@
+I0224 11:51:36.653954 25595 solver.cpp:331] Iteration 9400, Testing net (#0)
+I0224 11:51:38.858273 25595 solver.cpp:398]     Test net output #0: accuracy = 0.963293
+I0224 11:51:38.858311 25595 solver.cpp:398]     Test net output #1: loss = 0.1712 (* 1 = 0.1712 loss)
+I0224 11:51:38.922637 25595 solver.cpp:219] Iteration 9400 (11.6727 iter/s, 8.567s/100 iters), loss = 0.140704
+I0224 11:51:38.922677 25595 solver.cpp:238]     Train net output #0: loss = 0.140704 (* 1 = 0.140704 loss)
+I0224 11:51:38.922686 25595 sgd_solver.cpp:105] Iteration 9400, lr = 0.00573211
+I0224 11:51:45.216907 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9500.caffemodel
+I0224 11:51:45.218072 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9500.solverstate
+I0224 11:51:45.218612 25595 solver.cpp:331] Iteration 9500, Testing net (#0)
+I0224 11:51:47.412976 25595 solver.cpp:398]     Test net output #0: accuracy = 0.96439
+I0224 11:51:47.413017 25595 solver.cpp:398]     Test net output #1: loss = 0.176284 (* 1 = 0.176284 loss)
+I0224 11:51:47.480135 25595 solver.cpp:219] Iteration 9500 (11.6863 iter/s, 8.557s/100 iters), loss = 0.065421
+I0224 11:51:47.480170 25595 solver.cpp:238]     Train net output #0: loss = 0.0654209 (* 1 = 0.0654209 loss)
+I0224 11:51:47.480178 25595 sgd_solver.cpp:105] Iteration 9500, lr = 0.00566947
+I0224 11:51:53.933868 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9600.caffemodel
+I0224 11:51:53.935106 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9600.solverstate
+I0224 11:51:53.935675 25595 solver.cpp:331] Iteration 9600, Testing net (#0)
+I0224 11:51:56.189111 25595 solver.cpp:398]     Test net output #0: accuracy = 0.961098
+I0224 11:51:56.189184 25595 solver.cpp:398]     Test net output #1: loss = 0.180788 (* 1 = 0.180788 loss)
+I0224 11:51:56.254528 25595 solver.cpp:219] Iteration 9600 (11.3973 iter/s, 8.774s/100 iters), loss = 0.136458
+I0224 11:51:56.254570 25595 solver.cpp:238]     Train net output #0: loss = 0.136457 (* 1 = 0.136457 loss)
+I0224 11:51:56.254580 25595 sgd_solver.cpp:105] Iteration 9600, lr = 0.00560612
+I0224 11:52:02.674209 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9700.caffemodel
+I0224 11:52:02.675360 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9700.solverstate
+I0224 11:52:02.675863 25595 solver.cpp:331] Iteration 9700, Testing net (#0)
+I0224 11:52:04.933218 25595 solver.cpp:398]     Test net output #0: accuracy = 0.961829
+I0224 11:52:04.933254 25595 solver.cpp:398]     Test net output #1: loss = 0.171502 (* 1 = 0.171502 loss)
+I0224 11:52:05.002348 25595 solver.cpp:219] Iteration 9700 (11.4325 iter/s, 8.747s/100 iters), loss = 0.0891743
+I0224 11:52:05.002421 25595 solver.cpp:238]     Train net output #0: loss = 0.0891742 (* 1 = 0.0891742 loss)
+I0224 11:52:05.002434 25595 sgd_solver.cpp:105] Iteration 9700, lr = 0.00554205
+I0224 11:52:11.386101 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9800.caffemodel
+I0224 11:52:11.387279 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9800.solverstate
+I0224 11:52:11.387799 25595 solver.cpp:331] Iteration 9800, Testing net (#0)
+I0224 11:52:13.657847 25595 solver.cpp:398]     Test net output #0: accuracy = 0.962561
+I0224 11:52:13.657891 25595 solver.cpp:398]     Test net output #1: loss = 0.158055 (* 1 = 0.158055 loss)
+I0224 11:52:13.724700 25595 solver.cpp:219] Iteration 9800 (11.4653 iter/s, 8.722s/100 iters), loss = 0.123472
+I0224 11:52:13.724762 25595 solver.cpp:238]     Train net output #0: loss = 0.123472 (* 1 = 0.123472 loss)
+I0224 11:52:13.724782 25595 sgd_solver.cpp:105] Iteration 9800, lr = 0.00547723
+I0224 11:52:20.166818 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9900.caffemodel
+I0224 11:52:20.168208 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_9900.solverstate
+I0224 11:52:20.168875 25595 solver.cpp:331] Iteration 9900, Testing net (#0)
+I0224 11:52:22.450837 25595 solver.cpp:398]     Test net output #0: accuracy = 0.961585
+I0224 11:52:22.450875 25595 solver.cpp:398]     Test net output #1: loss = 0.175985 (* 1 = 0.175985 loss)
+I0224 11:52:22.517632 25595 solver.cpp:219] Iteration 9900 (11.374 iter/s, 8.792s/100 iters), loss = 0.123995
+I0224 11:52:22.517673 25595 solver.cpp:238]     Train net output #0: loss = 0.123995 (* 1 = 0.123995 loss)
+I0224 11:52:22.517681 25595 sgd_solver.cpp:105] Iteration 9900, lr = 0.00541163
+I0224 11:52:28.990134 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10000.caffemodel
+I0224 11:52:28.991775 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10000.solverstate
+I0224 11:52:28.992301 25595 solver.cpp:331] Iteration 10000, Testing net (#0)
+I0224 11:52:31.183526 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964146
+I0224 11:52:31.183593 25595 solver.cpp:398]     Test net output #1: loss = 0.173524 (* 1 = 0.173524 loss)
+I0224 11:52:31.246228 25595 solver.cpp:219] Iteration 10000 (11.4574 iter/s, 8.728s/100 iters), loss = 0.100884
+I0224 11:52:31.246285 25595 solver.cpp:238]     Train net output #0: loss = 0.100884 (* 1 = 0.100884 loss)
+I0224 11:52:31.246297 25595 sgd_solver.cpp:105] Iteration 10000, lr = 0.00534522
+I0224 11:52:37.558666 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10100.caffemodel
+I0224 11:52:37.560303 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10100.solverstate
+I0224 11:52:37.561098 25595 solver.cpp:331] Iteration 10100, Testing net (#0)
+I0224 11:52:39.830718 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966342
+I0224 11:52:39.830768 25595 solver.cpp:398]     Test net output #1: loss = 0.153909 (* 1 = 0.153909 loss)
+I0224 11:52:39.902479 25595 solver.cpp:219] Iteration 10100 (11.5527 iter/s, 8.656s/100 iters), loss = 0.0749842
+I0224 11:52:39.902521 25595 solver.cpp:238]     Train net output #0: loss = 0.0749841 (* 1 = 0.0749841 loss)
+I0224 11:52:39.902530 25595 sgd_solver.cpp:105] Iteration 10100, lr = 0.00527799
+I0224 11:52:46.389170 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10200.caffemodel
+I0224 11:52:46.390403 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10200.solverstate
+I0224 11:52:46.390944 25595 solver.cpp:331] Iteration 10200, Testing net (#0)
+I0224 11:52:48.966071 25595 solver.cpp:398]     Test net output #0: accuracy = 0.96439
+I0224 11:52:48.966119 25595 solver.cpp:398]     Test net output #1: loss = 0.160011 (* 1 = 0.160011 loss)
+I0224 11:52:49.034940 25595 solver.cpp:219] Iteration 10200 (10.9505 iter/s, 9.132s/100 iters), loss = 0.0955413
+I0224 11:52:49.034979 25595 solver.cpp:238]     Train net output #0: loss = 0.0955413 (* 1 = 0.0955413 loss)
+I0224 11:52:49.034989 25595 sgd_solver.cpp:105] Iteration 10200, lr = 0.00520988
+I0224 11:52:55.326913 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10300.caffemodel
+I0224 11:52:55.328250 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10300.solverstate
+I0224 11:52:55.328846 25595 solver.cpp:331] Iteration 10300, Testing net (#0)
+I0224 11:52:57.517856 25595 solver.cpp:398]     Test net output #0: accuracy = 0.962805
+I0224 11:52:57.517897 25595 solver.cpp:398]     Test net output #1: loss = 0.174145 (* 1 = 0.174145 loss)
+I0224 11:52:57.580924 25595 solver.cpp:219] Iteration 10300 (11.7028 iter/s, 8.545s/100 iters), loss = 0.0376596
+I0224 11:52:57.580953 25595 solver.cpp:238]     Train net output #0: loss = 0.0376595 (* 1 = 0.0376595 loss)
+I0224 11:52:57.580962 25595 sgd_solver.cpp:105] Iteration 10300, lr = 0.00514087
+I0224 11:53:03.840587 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10400.caffemodel
+I0224 11:53:03.841904 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10400.solverstate
+I0224 11:53:03.842443 25595 solver.cpp:331] Iteration 10400, Testing net (#0)
+I0224 11:53:06.033736 25595 solver.cpp:398]     Test net output #0: accuracy = 0.963903
+I0224 11:53:06.033776 25595 solver.cpp:398]     Test net output #1: loss = 0.164433 (* 1 = 0.164433 loss)
+I0224 11:53:06.097914 25595 solver.cpp:219] Iteration 10400 (11.7426 iter/s, 8.516s/100 iters), loss = 0.053709
+I0224 11:53:06.097956 25595 solver.cpp:238]     Train net output #0: loss = 0.0537089 (* 1 = 0.0537089 loss)
+I0224 11:53:06.097976 25595 sgd_solver.cpp:105] Iteration 10400, lr = 0.00507093
+I0224 11:53:12.398663 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10500.caffemodel
+I0224 11:53:12.400189 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10500.solverstate
+I0224 11:53:12.400724 25595 solver.cpp:331] Iteration 10500, Testing net (#0)
+I0224 11:53:14.600350 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964512
+I0224 11:53:14.600397 25595 solver.cpp:398]     Test net output #1: loss = 0.159057 (* 1 = 0.159057 loss)
+I0224 11:53:14.665503 25595 solver.cpp:219] Iteration 10500 (11.6727 iter/s, 8.567s/100 iters), loss = 0.0878341
+I0224 11:53:14.665547 25595 solver.cpp:238]     Train net output #0: loss = 0.0878341 (* 1 = 0.0878341 loss)
+I0224 11:53:14.665556 25595 sgd_solver.cpp:105] Iteration 10500, lr = 0.005
+I0224 11:53:20.974052 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10600.caffemodel
+I0224 11:53:20.975268 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10600.solverstate
+I0224 11:53:20.975852 25595 solver.cpp:331] Iteration 10600, Testing net (#0)
+I0224 11:53:23.223911 25595 solver.cpp:398]     Test net output #0: accuracy = 0.961342
+I0224 11:53:23.223963 25595 solver.cpp:398]     Test net output #1: loss = 0.172251 (* 1 = 0.172251 loss)
+I0224 11:53:23.290033 25595 solver.cpp:219] Iteration 10600 (11.5955 iter/s, 8.624s/100 iters), loss = 0.0222612
+I0224 11:53:23.290077 25595 solver.cpp:238]     Train net output #0: loss = 0.0222611 (* 1 = 0.0222611 loss)
+I0224 11:53:23.290086 25595 sgd_solver.cpp:105] Iteration 10600, lr = 0.00492805
+I0224 11:53:29.721166 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10700.caffemodel
+I0224 11:53:29.722723 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10700.solverstate
+I0224 11:53:29.723264 25595 solver.cpp:331] Iteration 10700, Testing net (#0)
+I0224 11:53:31.915899 25595 solver.cpp:398]     Test net output #0: accuracy = 0.962561
+I0224 11:53:31.915946 25595 solver.cpp:398]     Test net output #1: loss = 0.169365 (* 1 = 0.169365 loss)
+I0224 11:53:31.980996 25595 solver.cpp:219] Iteration 10700 (11.5075 iter/s, 8.69s/100 iters), loss = 0.0410841
+I0224 11:53:31.981041 25595 solver.cpp:238]     Train net output #0: loss = 0.0410841 (* 1 = 0.0410841 loss)
+I0224 11:53:31.981050 25595 sgd_solver.cpp:105] Iteration 10700, lr = 0.00485504
+I0224 11:53:38.351964 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10800.caffemodel
+I0224 11:53:38.353217 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10800.solverstate
+I0224 11:53:38.353752 25595 solver.cpp:331] Iteration 10800, Testing net (#0)
+I0224 11:53:40.614635 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966829
+I0224 11:53:40.614671 25595 solver.cpp:398]     Test net output #1: loss = 0.158439 (* 1 = 0.158439 loss)
+I0224 11:53:40.680296 25595 solver.cpp:219] Iteration 10800 (11.4956 iter/s, 8.699s/100 iters), loss = 0.0845473
+I0224 11:53:40.680341 25595 solver.cpp:238]     Train net output #0: loss = 0.0845472 (* 1 = 0.0845472 loss)
+I0224 11:53:40.680349 25595 sgd_solver.cpp:105] Iteration 10800, lr = 0.00478091
+I0224 11:53:47.070617 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10900.caffemodel
+I0224 11:53:47.072026 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_10900.solverstate
+I0224 11:53:47.072641 25595 solver.cpp:331] Iteration 10900, Testing net (#0)
+I0224 11:53:49.272794 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964146
+I0224 11:53:49.272841 25595 solver.cpp:398]     Test net output #1: loss = 0.161988 (* 1 = 0.161988 loss)
+I0224 11:53:49.336051 25595 solver.cpp:219] Iteration 10900 (11.554 iter/s, 8.655s/100 iters), loss = 0.0449045
+I0224 11:53:49.336088 25595 solver.cpp:238]     Train net output #0: loss = 0.0449045 (* 1 = 0.0449045 loss)
+I0224 11:53:49.336097 25595 sgd_solver.cpp:105] Iteration 10900, lr = 0.00470562
+I0224 11:53:55.614132 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11000.caffemodel
+I0224 11:53:55.615336 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11000.solverstate
+I0224 11:53:55.615867 25595 solver.cpp:331] Iteration 11000, Testing net (#0)
+I0224 11:53:57.812319 25595 solver.cpp:398]     Test net output #0: accuracy = 0.962439
+I0224 11:53:57.812366 25595 solver.cpp:398]     Test net output #1: loss = 0.171123 (* 1 = 0.171123 loss)
+I0224 11:53:57.875957 25595 solver.cpp:219] Iteration 11000 (11.711 iter/s, 8.539s/100 iters), loss = 0.0903906
+I0224 11:53:57.876034 25595 solver.cpp:238]     Train net output #0: loss = 0.0903906 (* 1 = 0.0903906 loss)
+I0224 11:53:57.876045 25595 sgd_solver.cpp:105] Iteration 11000, lr = 0.0046291
+I0224 11:54:04.156311 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11100.caffemodel
+I0224 11:54:04.157490 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11100.solverstate
+I0224 11:54:04.158021 25595 solver.cpp:331] Iteration 11100, Testing net (#0)
+I0224 11:54:06.361268 25595 solver.cpp:398]     Test net output #0: accuracy = 0.96622
+I0224 11:54:06.361330 25595 solver.cpp:398]     Test net output #1: loss = 0.172527 (* 1 = 0.172527 loss)
+I0224 11:54:06.425302 25595 solver.cpp:219] Iteration 11100 (11.6973 iter/s, 8.549s/100 iters), loss = 0.0289854
+I0224 11:54:06.425338 25595 solver.cpp:238]     Train net output #0: loss = 0.0289854 (* 1 = 0.0289854 loss)
+I0224 11:54:06.425346 25595 sgd_solver.cpp:105] Iteration 11100, lr = 0.00455129
+I0224 11:54:12.735586 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11200.caffemodel
+I0224 11:54:12.737831 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11200.solverstate
+I0224 11:54:12.738711 25595 solver.cpp:331] Iteration 11200, Testing net (#0)
+I0224 11:54:15.014475 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964878
+I0224 11:54:15.014538 25595 solver.cpp:398]     Test net output #1: loss = 0.16455 (* 1 = 0.16455 loss)
+I0224 11:54:15.080396 25595 solver.cpp:219] Iteration 11200 (11.554 iter/s, 8.655s/100 iters), loss = 0.0533352
+I0224 11:54:15.080440 25595 solver.cpp:238]     Train net output #0: loss = 0.0533352 (* 1 = 0.0533352 loss)
+I0224 11:54:15.080448 25595 sgd_solver.cpp:105] Iteration 11200, lr = 0.00447214
+I0224 11:54:21.561955 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11300.caffemodel
+I0224 11:54:21.563721 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11300.solverstate
+I0224 11:54:21.564580 25595 solver.cpp:331] Iteration 11300, Testing net (#0)
+I0224 11:54:23.822332 25595 solver.cpp:398]     Test net output #0: accuracy = 0.963293
+I0224 11:54:23.822379 25595 solver.cpp:398]     Test net output #1: loss = 0.167002 (* 1 = 0.167002 loss)
+I0224 11:54:23.889361 25595 solver.cpp:219] Iteration 11300 (11.3533 iter/s, 8.808s/100 iters), loss = 0.0470117
+I0224 11:54:23.889403 25595 solver.cpp:238]     Train net output #0: loss = 0.0470117 (* 1 = 0.0470117 loss)
+I0224 11:54:23.889413 25595 sgd_solver.cpp:105] Iteration 11300, lr = 0.00439155
+I0224 11:54:30.170913 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11400.caffemodel
+I0224 11:54:30.172103 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11400.solverstate
+I0224 11:54:30.172631 25595 solver.cpp:331] Iteration 11400, Testing net (#0)
+I0224 11:54:32.383601 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966586
+I0224 11:54:32.383646 25595 solver.cpp:398]     Test net output #1: loss = 0.164371 (* 1 = 0.164371 loss)
+I0224 11:54:32.447017 25595 solver.cpp:219] Iteration 11400 (11.6863 iter/s, 8.557s/100 iters), loss = 0.0846633
+I0224 11:54:32.447059 25595 solver.cpp:238]     Train net output #0: loss = 0.0846633 (* 1 = 0.0846633 loss)
+I0224 11:54:32.447068 25595 sgd_solver.cpp:105] Iteration 11400, lr = 0.00430946
+I0224 11:54:38.717707 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11500.caffemodel
+I0224 11:54:38.719017 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11500.solverstate
+I0224 11:54:38.719624 25595 solver.cpp:331] Iteration 11500, Testing net (#0)
+I0224 11:54:40.913835 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966342
+I0224 11:54:40.913897 25595 solver.cpp:398]     Test net output #1: loss = 0.16156 (* 1 = 0.16156 loss)
+I0224 11:54:40.977932 25595 solver.cpp:219] Iteration 11500 (11.7233 iter/s, 8.53s/100 iters), loss = 0.0353716
+I0224 11:54:40.977975 25595 solver.cpp:238]     Train net output #0: loss = 0.0353716 (* 1 = 0.0353716 loss)
+I0224 11:54:40.977984 25595 sgd_solver.cpp:105] Iteration 11500, lr = 0.00422577
+I0224 11:54:47.238546 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11600.caffemodel
+I0224 11:54:47.239851 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11600.solverstate
+I0224 11:54:47.240375 25595 solver.cpp:331] Iteration 11600, Testing net (#0)
+I0224 11:54:49.453764 25595 solver.cpp:398]     Test net output #0: accuracy = 0.963903
+I0224 11:54:49.453804 25595 solver.cpp:398]     Test net output #1: loss = 0.169948 (* 1 = 0.169948 loss)
+I0224 11:54:49.516126 25595 solver.cpp:219] Iteration 11600 (11.7123 iter/s, 8.538s/100 iters), loss = 0.0872909
+I0224 11:54:49.516162 25595 solver.cpp:238]     Train net output #0: loss = 0.0872909 (* 1 = 0.0872909 loss)
+I0224 11:54:49.516172 25595 sgd_solver.cpp:105] Iteration 11600, lr = 0.00414039
+I0224 11:54:55.941735 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11700.caffemodel
+I0224 11:54:55.942935 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11700.solverstate
+I0224 11:54:55.943485 25595 solver.cpp:331] Iteration 11700, Testing net (#0)
+I0224 11:54:58.139925 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965976
+I0224 11:54:58.139969 25595 solver.cpp:398]     Test net output #1: loss = 0.166865 (* 1 = 0.166865 loss)
+I0224 11:54:58.202994 25595 solver.cpp:219] Iteration 11700 (11.5128 iter/s, 8.686s/100 iters), loss = 0.135156
+I0224 11:54:58.203035 25595 solver.cpp:238]     Train net output #0: loss = 0.135156 (* 1 = 0.135156 loss)
+I0224 11:54:58.203043 25595 sgd_solver.cpp:105] Iteration 11700, lr = 0.00405322
+I0224 11:55:04.452528 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11800.caffemodel
+I0224 11:55:04.453722 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11800.solverstate
+I0224 11:55:04.454324 25595 solver.cpp:331] Iteration 11800, Testing net (#0)
+I0224 11:55:06.665287 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965854
+I0224 11:55:06.665326 25595 solver.cpp:398]     Test net output #1: loss = 0.153652 (* 1 = 0.153652 loss)
+I0224 11:55:06.729549 25595 solver.cpp:219] Iteration 11800 (11.7288 iter/s, 8.526s/100 iters), loss = 0.0925146
+I0224 11:55:06.729586 25595 solver.cpp:238]     Train net output #0: loss = 0.0925146 (* 1 = 0.0925146 loss)
+I0224 11:55:06.729598 25595 sgd_solver.cpp:105] Iteration 11800, lr = 0.00396413
+I0224 11:55:12.992969 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11900.caffemodel
+I0224 11:55:12.994164 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_11900.solverstate
+I0224 11:55:12.994738 25595 solver.cpp:331] Iteration 11900, Testing net (#0)
+I0224 11:55:15.190647 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964268
+I0224 11:55:15.190685 25595 solver.cpp:398]     Test net output #1: loss = 0.163057 (* 1 = 0.163057 loss)
+I0224 11:55:15.254686 25595 solver.cpp:219] Iteration 11900 (11.7302 iter/s, 8.525s/100 iters), loss = 0.0758985
+I0224 11:55:15.254721 25595 solver.cpp:238]     Train net output #0: loss = 0.0758986 (* 1 = 0.0758986 loss)
+I0224 11:55:15.254734 25595 sgd_solver.cpp:105] Iteration 11900, lr = 0.00387298
+I0224 11:55:21.603574 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12000.caffemodel
+I0224 11:55:21.604780 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12000.solverstate
+I0224 11:55:21.605311 25595 solver.cpp:331] Iteration 12000, Testing net (#0)
+I0224 11:55:23.820348 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966951
+I0224 11:55:23.820403 25595 solver.cpp:398]     Test net output #1: loss = 0.168406 (* 1 = 0.168406 loss)
+I0224 11:55:23.886700 25595 solver.cpp:219] Iteration 12000 (11.5861 iter/s, 8.631s/100 iters), loss = 0.102235
+I0224 11:55:23.886744 25595 solver.cpp:238]     Train net output #0: loss = 0.102235 (* 1 = 0.102235 loss)
+I0224 11:55:23.886752 25595 sgd_solver.cpp:105] Iteration 12000, lr = 0.00377964
+I0224 11:55:30.193171 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12100.caffemodel
+I0224 11:55:30.194370 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12100.solverstate
+I0224 11:55:30.194913 25595 solver.cpp:331] Iteration 12100, Testing net (#0)
+I0224 11:55:32.394101 25595 solver.cpp:398]     Test net output #0: accuracy = 0.96561
+I0224 11:55:32.394147 25595 solver.cpp:398]     Test net output #1: loss = 0.161686 (* 1 = 0.161686 loss)
+I0224 11:55:32.457904 25595 solver.cpp:219] Iteration 12100 (11.6672 iter/s, 8.571s/100 iters), loss = 0.0638005
+I0224 11:55:32.457947 25595 solver.cpp:238]     Train net output #0: loss = 0.0638006 (* 1 = 0.0638006 loss)
+I0224 11:55:32.457955 25595 sgd_solver.cpp:105] Iteration 12100, lr = 0.00368394
+I0224 11:55:38.762545 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12200.caffemodel
+I0224 11:55:38.763726 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12200.solverstate
+I0224 11:55:38.764273 25595 solver.cpp:331] Iteration 12200, Testing net (#0)
+I0224 11:55:40.960299 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966463
+I0224 11:55:40.960348 25595 solver.cpp:398]     Test net output #1: loss = 0.159884 (* 1 = 0.159884 loss)
+I0224 11:55:41.026336 25595 solver.cpp:219] Iteration 12200 (11.6713 iter/s, 8.568s/100 iters), loss = 0.0644322
+I0224 11:55:41.026398 25595 solver.cpp:238]     Train net output #0: loss = 0.0644323 (* 1 = 0.0644323 loss)
+I0224 11:55:41.026409 25595 sgd_solver.cpp:105] Iteration 12200, lr = 0.00358569
+I0224 11:55:47.319622 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12300.caffemodel
+I0224 11:55:47.320986 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12300.solverstate
+I0224 11:55:47.321586 25595 solver.cpp:331] Iteration 12300, Testing net (#0)
+I0224 11:55:49.515096 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964756
+I0224 11:55:49.515171 25595 solver.cpp:398]     Test net output #1: loss = 0.17625 (* 1 = 0.17625 loss)
+I0224 11:55:49.578603 25595 solver.cpp:219] Iteration 12300 (11.6932 iter/s, 8.552s/100 iters), loss = 0.0282281
+I0224 11:55:49.578637 25595 solver.cpp:238]     Train net output #0: loss = 0.0282283 (* 1 = 0.0282283 loss)
+I0224 11:55:49.578646 25595 sgd_solver.cpp:105] Iteration 12300, lr = 0.00348466
+I0224 11:55:55.844805 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12400.caffemodel
+I0224 11:55:55.846099 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12400.solverstate
+I0224 11:55:55.846642 25595 solver.cpp:331] Iteration 12400, Testing net (#0)
+I0224 11:55:58.037405 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965
+I0224 11:55:58.037452 25595 solver.cpp:398]     Test net output #1: loss = 0.160337 (* 1 = 0.160337 loss)
+I0224 11:55:58.100561 25595 solver.cpp:219] Iteration 12400 (11.7357 iter/s, 8.521s/100 iters), loss = 0.146438
+I0224 11:55:58.100608 25595 solver.cpp:238]     Train net output #0: loss = 0.146438 (* 1 = 0.146438 loss)
+I0224 11:55:58.100617 25595 sgd_solver.cpp:105] Iteration 12400, lr = 0.00338062
+I0224 11:56:04.398948 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12500.caffemodel
+I0224 11:56:04.400094 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12500.solverstate
+I0224 11:56:04.400629 25595 solver.cpp:331] Iteration 12500, Testing net (#0)
+I0224 11:56:06.609248 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965
+I0224 11:56:06.609294 25595 solver.cpp:398]     Test net output #1: loss = 0.159463 (* 1 = 0.159463 loss)
+I0224 11:56:06.673094 25595 solver.cpp:219] Iteration 12500 (11.6659 iter/s, 8.572s/100 iters), loss = 0.0331403
+I0224 11:56:06.673135 25595 solver.cpp:238]     Train net output #0: loss = 0.0331404 (* 1 = 0.0331404 loss)
+I0224 11:56:06.673142 25595 sgd_solver.cpp:105] Iteration 12500, lr = 0.00327327
+I0224 11:56:12.992471 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12600.caffemodel
+I0224 11:56:12.993737 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12600.solverstate
+I0224 11:56:12.994349 25595 solver.cpp:331] Iteration 12600, Testing net (#0)
+I0224 11:56:15.213191 25595 solver.cpp:398]     Test net output #0: accuracy = 0.967317
+I0224 11:56:15.213238 25595 solver.cpp:398]     Test net output #1: loss = 0.171597 (* 1 = 0.171597 loss)
+I0224 11:56:15.278396 25595 solver.cpp:219] Iteration 12600 (11.6212 iter/s, 8.605s/100 iters), loss = 0.0187852
+I0224 11:56:15.278447 25595 solver.cpp:238]     Train net output #0: loss = 0.0187854 (* 1 = 0.0187854 loss)
+I0224 11:56:15.278457 25595 sgd_solver.cpp:105] Iteration 12600, lr = 0.00316228
+I0224 11:56:21.585386 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12700.caffemodel
+I0224 11:56:21.586634 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12700.solverstate
+I0224 11:56:21.587306 25595 solver.cpp:331] Iteration 12700, Testing net (#0)
+I0224 11:56:23.779111 25595 solver.cpp:398]     Test net output #0: accuracy = 0.962317
+I0224 11:56:23.779146 25595 solver.cpp:398]     Test net output #1: loss = 0.174536 (* 1 = 0.174536 loss)
+I0224 11:56:23.843859 25595 solver.cpp:219] Iteration 12700 (11.6754 iter/s, 8.565s/100 iters), loss = 0.0251048
+I0224 11:56:23.843904 25595 solver.cpp:238]     Train net output #0: loss = 0.0251049 (* 1 = 0.0251049 loss)
+I0224 11:56:23.843912 25595 sgd_solver.cpp:105] Iteration 12700, lr = 0.00304725
+I0224 11:56:30.132941 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12800.caffemodel
+I0224 11:56:30.134279 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12800.solverstate
+I0224 11:56:30.134826 25595 solver.cpp:331] Iteration 12800, Testing net (#0)
+I0224 11:56:32.325537 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964146
+I0224 11:56:32.325574 25595 solver.cpp:398]     Test net output #1: loss = 0.172311 (* 1 = 0.172311 loss)
+I0224 11:56:32.389003 25595 solver.cpp:219] Iteration 12800 (11.7028 iter/s, 8.545s/100 iters), loss = 0.0580138
+I0224 11:56:32.389037 25595 solver.cpp:238]     Train net output #0: loss = 0.0580138 (* 1 = 0.0580138 loss)
+I0224 11:56:32.389045 25595 sgd_solver.cpp:105] Iteration 12800, lr = 0.0029277
+I0224 11:56:38.659696 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12900.caffemodel
+I0224 11:56:38.660881 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_12900.solverstate
+I0224 11:56:38.661424 25595 solver.cpp:331] Iteration 12900, Testing net (#0)
+I0224 11:56:40.851110 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964634
+I0224 11:56:40.851157 25595 solver.cpp:398]     Test net output #1: loss = 0.165981 (* 1 = 0.165981 loss)
+I0224 11:56:40.913481 25595 solver.cpp:219] Iteration 12900 (11.7316 iter/s, 8.524s/100 iters), loss = 0.0973829
+I0224 11:56:40.913517 25595 solver.cpp:238]     Train net output #0: loss = 0.097383 (* 1 = 0.097383 loss)
+I0224 11:56:40.913527 25595 sgd_solver.cpp:105] Iteration 12900, lr = 0.00280306
+I0224 11:56:47.216619 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13000.caffemodel
+I0224 11:56:47.217805 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13000.solverstate
+I0224 11:56:47.218344 25595 solver.cpp:331] Iteration 13000, Testing net (#0)
+I0224 11:56:49.417412 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964391
+I0224 11:56:49.417459 25595 solver.cpp:398]     Test net output #1: loss = 0.165903 (* 1 = 0.165903 loss)
+I0224 11:56:49.485122 25595 solver.cpp:219] Iteration 13000 (11.6672 iter/s, 8.571s/100 iters), loss = 0.0724911
+I0224 11:56:49.485173 25595 solver.cpp:238]     Train net output #0: loss = 0.0724911 (* 1 = 0.0724911 loss)
+I0224 11:56:49.485183 25595 sgd_solver.cpp:105] Iteration 13000, lr = 0.00267261
+I0224 11:56:55.778826 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13100.caffemodel
+I0224 11:56:55.779953 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13100.solverstate
+I0224 11:56:55.780452 25595 solver.cpp:331] Iteration 13100, Testing net (#0)
+I0224 11:56:57.972466 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965732
+I0224 11:56:57.972514 25595 solver.cpp:398]     Test net output #1: loss = 0.16814 (* 1 = 0.16814 loss)
+I0224 11:56:58.037241 25595 solver.cpp:219] Iteration 13100 (11.6932 iter/s, 8.552s/100 iters), loss = 0.0371843
+I0224 11:56:58.037282 25595 solver.cpp:238]     Train net output #0: loss = 0.0371843 (* 1 = 0.0371843 loss)
+I0224 11:56:58.037291 25595 sgd_solver.cpp:105] Iteration 13100, lr = 0.00253546
+I0224 11:57:04.314277 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13200.caffemodel
+I0224 11:57:04.315563 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13200.solverstate
+I0224 11:57:04.316148 25595 solver.cpp:331] Iteration 13200, Testing net (#0)
+I0224 11:57:06.509562 25595 solver.cpp:398]     Test net output #0: accuracy = 0.967439
+I0224 11:57:06.509610 25595 solver.cpp:398]     Test net output #1: loss = 0.157621 (* 1 = 0.157621 loss)
+I0224 11:57:06.573078 25595 solver.cpp:219] Iteration 13200 (11.7165 iter/s, 8.535s/100 iters), loss = 0.065066
+I0224 11:57:06.573122 25595 solver.cpp:238]     Train net output #0: loss = 0.0650661 (* 1 = 0.0650661 loss)
+I0224 11:57:06.573132 25595 sgd_solver.cpp:105] Iteration 13200, lr = 0.00239046
+I0224 11:57:12.833250 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13300.caffemodel
+I0224 11:57:12.834586 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13300.solverstate
+I0224 11:57:12.835157 25595 solver.cpp:331] Iteration 13300, Testing net (#0)
+I0224 11:57:15.044826 25595 solver.cpp:398]     Test net output #0: accuracy = 0.963659
+I0224 11:57:15.044903 25595 solver.cpp:398]     Test net output #1: loss = 0.169463 (* 1 = 0.169463 loss)
+I0224 11:57:15.108014 25595 solver.cpp:219] Iteration 13300 (11.7178 iter/s, 8.534s/100 iters), loss = 0.0948053
+I0224 11:57:15.108060 25595 solver.cpp:238]     Train net output #0: loss = 0.0948053 (* 1 = 0.0948053 loss)
+I0224 11:57:15.108074 25595 sgd_solver.cpp:105] Iteration 13300, lr = 0.00223607
+I0224 11:57:21.366741 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13400.caffemodel
+I0224 11:57:21.367956 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13400.solverstate
+I0224 11:57:21.368561 25595 solver.cpp:331] Iteration 13400, Testing net (#0)
+I0224 11:57:23.560086 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966707
+I0224 11:57:23.560137 25595 solver.cpp:398]     Test net output #1: loss = 0.1682 (* 1 = 0.1682 loss)
+I0224 11:57:23.623380 25595 solver.cpp:219] Iteration 13400 (11.744 iter/s, 8.515s/100 iters), loss = 0.094819
+I0224 11:57:23.623423 25595 solver.cpp:238]     Train net output #0: loss = 0.0948191 (* 1 = 0.0948191 loss)
+I0224 11:57:23.623431 25595 sgd_solver.cpp:105] Iteration 13400, lr = 0.0020702
+I0224 11:57:29.892562 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13500.caffemodel
+I0224 11:57:29.893756 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13500.solverstate
+I0224 11:57:29.894284 25595 solver.cpp:331] Iteration 13500, Testing net (#0)
+I0224 11:57:32.092154 25595 solver.cpp:398]     Test net output #0: accuracy = 0.966829
+I0224 11:57:32.092202 25595 solver.cpp:398]     Test net output #1: loss = 0.159026 (* 1 = 0.159026 loss)
+I0224 11:57:32.158993 25595 solver.cpp:219] Iteration 13500 (11.7165 iter/s, 8.535s/100 iters), loss = 0.177267
+I0224 11:57:32.159025 25595 solver.cpp:238]     Train net output #0: loss = 0.177267 (* 1 = 0.177267 loss)
+I0224 11:57:32.159034 25595 sgd_solver.cpp:105] Iteration 13500, lr = 0.00188982
+I0224 11:57:38.446557 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13600.caffemodel
+I0224 11:57:38.447821 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13600.solverstate
+I0224 11:57:38.448356 25595 solver.cpp:331] Iteration 13600, Testing net (#0)
+I0224 11:57:40.644868 25595 solver.cpp:398]     Test net output #0: accuracy = 0.964878
+I0224 11:57:40.644917 25595 solver.cpp:398]     Test net output #1: loss = 0.165457 (* 1 = 0.165457 loss)
+I0224 11:57:40.715106 25595 solver.cpp:219] Iteration 13600 (11.6877 iter/s, 8.556s/100 iters), loss = 0.0619032
+I0224 11:57:40.715157 25595 solver.cpp:238]     Train net output #0: loss = 0.0619032 (* 1 = 0.0619032 loss)
+I0224 11:57:40.715165 25595 sgd_solver.cpp:105] Iteration 13600, lr = 0.00169031
+I0224 11:57:46.992398 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13700.caffemodel
+I0224 11:57:46.993612 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13700.solverstate
+I0224 11:57:46.994253 25595 solver.cpp:331] Iteration 13700, Testing net (#0)
+I0224 11:57:49.197789 25595 solver.cpp:398]     Test net output #0: accuracy = 0.967073
+I0224 11:57:49.197832 25595 solver.cpp:398]     Test net output #1: loss = 0.173511 (* 1 = 0.173511 loss)
+I0224 11:57:49.263121 25595 solver.cpp:219] Iteration 13700 (11.7 iter/s, 8.547s/100 iters), loss = 0.0596944
+I0224 11:57:49.263159 25595 solver.cpp:238]     Train net output #0: loss = 0.0596945 (* 1 = 0.0596945 loss)
+I0224 11:57:49.263169 25595 sgd_solver.cpp:105] Iteration 13700, lr = 0.00146385
+I0224 11:57:55.533318 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13800.caffemodel
+I0224 11:57:55.534481 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13800.solverstate
+I0224 11:57:55.535032 25595 solver.cpp:331] Iteration 13800, Testing net (#0)
+I0224 11:57:57.765965 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965976
+I0224 11:57:57.766011 25595 solver.cpp:398]     Test net output #1: loss = 0.156804 (* 1 = 0.156804 loss)
+I0224 11:57:57.831240 25595 solver.cpp:219] Iteration 13800 (11.6713 iter/s, 8.568s/100 iters), loss = 0.0647147
+I0224 11:57:57.831274 25595 solver.cpp:238]     Train net output #0: loss = 0.0647148 (* 1 = 0.0647148 loss)
+I0224 11:57:57.831282 25595 sgd_solver.cpp:105] Iteration 13800, lr = 0.00119523
+I0224 11:58:04.234227 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13900.caffemodel
+I0224 11:58:04.235424 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_13900.solverstate
+I0224 11:58:04.235975 25595 solver.cpp:331] Iteration 13900, Testing net (#0)
+I0224 11:58:06.426700 25595 solver.cpp:398]     Test net output #0: accuracy = 0.965
+I0224 11:58:06.426748 25595 solver.cpp:398]     Test net output #1: loss = 0.168377 (* 1 = 0.168377 loss)
+I0224 11:58:06.490238 25595 solver.cpp:219] Iteration 13900 (11.55 iter/s, 8.658s/100 iters), loss = 0.0458337
+I0224 11:58:06.490280 25595 solver.cpp:238]     Train net output #0: loss = 0.0458338 (* 1 = 0.0458338 loss)
+I0224 11:58:06.490289 25595 sgd_solver.cpp:105] Iteration 13900, lr = 0.000845153
+I0224 11:58:12.761615 25595 solver.cpp:448] Snapshotting to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_14000.caffemodel
+I0224 11:58:12.763262 25595 sgd_solver.cpp:273] Snapshotting solver state to binary proto file /home/ren/pycharm_project/caffe_trafficSign/mytrain/_iter_14000.solverstate
+I0224 11:58:12.790951 25595 solver.cpp:311] Iteration 14000, loss = 0.018582
+I0224 11:58:12.790987 25595 solver.cpp:331] Iteration 14000, Testing net (#0)
+I0224 11:58:14.985751 25595 solver.cpp:398]     Test net output #0: accuracy = 0.967439
+I0224 11:58:14.985797 25595 solver.cpp:398]     Test net output #1: loss = 0.171717 (* 1 = 0.171717 loss)
+I0224 11:58:14.985805 25595 solver.cpp:316] Optimization Done.
+I0224 11:58:14.985808 25595 caffe.cpp:259] Optimization Done.

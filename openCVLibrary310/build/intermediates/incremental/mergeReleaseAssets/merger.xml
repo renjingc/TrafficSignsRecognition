@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\androidStudio_ws\TrafficSignsRecognition-master\openCVLibrary310\src\main\assets"/><source path="E:\androidStudio_ws\TrafficSignsRecognition-master\openCVLibrary310\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\androidStudio_ws\TrafficSignsRecognition-master\openCVLibrary310\src\release\assets"/></dataSet></merger>

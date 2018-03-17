@@ -1,0 +1,5 @@
+
+
+# TrafficSignsRecognition
+
+通过android识别道路中出现的限速牌,并实时地语音报出识别出的限速数字,并且只报出一次.
